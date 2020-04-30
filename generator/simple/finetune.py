@@ -1,5 +1,4 @@
 import os
-import tarfile
 
 import gpt_2_simple as gpt2
 

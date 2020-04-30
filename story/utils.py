@@ -1,8 +1,6 @@
 # coding: utf-8
 import re
 from difflib import SequenceMatcher
-
-import yaml
 from profanityfilter import ProfanityFilter
 
 YAML_FILE = "story/story_data.yaml"
